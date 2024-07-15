@@ -2,8 +2,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.crystal.android.deeplink",
+      "package_name": "et.safaricom.mpesa.ott.mock",
       "sha256_cert_fingerprints":
-      ["C4:B4:9C:48:44:BA:E0:94:4A:F1:55:C9:7C:0B:35:E6:26:0B:50:02:AE:24:0D:9F:64:EE:A3:86:24:2A:7B:D1"]
+      ["34:6B:2D:9E:C0:C9:15:76:EA:2F:19:2F:3E:EE:B7:81:8D:8D:86:B4:40:55:76:1C:17:C0:B1:01:4A:E6:AB:F3"]
     }
   }]
